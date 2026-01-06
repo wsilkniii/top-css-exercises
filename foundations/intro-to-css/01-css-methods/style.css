@@ -1,0 +1,8 @@
+/* Style Sheet 01-Css-Methods */
+
+div {
+    background-color: #ff0000;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
